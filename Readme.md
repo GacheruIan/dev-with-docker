@@ -47,4 +47,5 @@ git clone
 cd DockerDemo
 npm install
 npm start
+<i>express also running on port 8081</i>
 
