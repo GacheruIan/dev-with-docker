@@ -15,7 +15,7 @@ DockerDemo is a basic application that connects an HTML and JavaScript front end
 - Node.js installed (for local development)
 - pull mongo and mongo-express from docker hub
 
-### Running MongoDB and Express in Docker
+### <u> Running MongoDB and Express in Docker </u>
 
 **<u> Create a Docker network** </u>
  For running MongoDB and mongo-express containers:- 
@@ -43,9 +43,9 @@ docker run -d \
 
 
  # <u> Running the Application </u>
-git clone 
-cd DockerDemo
-npm install
-npm start
+git clone <br>
+cd DockerDemo <br>
+npm install <br>
+npm start <br>
 <i>express also running on port 8081</i>
 
